@@ -1,2 +1,0 @@
-# First-Git
-Hello World
